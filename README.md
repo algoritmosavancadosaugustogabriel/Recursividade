@@ -125,3 +125,5 @@ jobs:
     * `uses` = é a utilização de uma configuração pronta do actions
     * `with` = é definido uma configuração para o actions já pronto, no caso a versão do java
     * `run` = vai ser rodado um comando de Linux, como no terminal do ubuntu, já que estamos usando ele nesse actions
+
+---
